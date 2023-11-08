@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include<stdio.h>--roza
+=======
+#include<stdio.h>---yash
+>>>>>>> fcaa0a664e851b19c2f729394d48e25b54c795eb
 int main()
 {
 
