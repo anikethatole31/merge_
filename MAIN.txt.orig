@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 #include<stdio.h>---yash-yash
+=======
 #include<stdio.h>--roza--r
+>>>>>>> 1988f7e (roza changed twice)
 int main()
 {
 printf("helow World");
